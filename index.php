@@ -24,7 +24,7 @@ if(isset($_GET['boton']))
 <html>
     <title>login</title>
     <header>
-   <h1>INGRESO AL SISTEMA</h1>
+   <h1>INGRESO AL SISTEMA FERRETERIA</h1>
    <h1>hola</h1>
 </header>
     <center><form><BR>
