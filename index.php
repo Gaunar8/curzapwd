@@ -28,7 +28,7 @@ if(isset($_GET['boton']))
    <h1>hola</h1>
 </header>
     <center><form><BR>
-        Nombre de usuario:<br><input type="text" name="usuario"  ><br></br>
+        Nombre de usuario:<br><input type="text" name="usuario" placehorder="Nombre de usaurio" ><br></br>
         Contraseña:<br><input type="password" name="contra"><br></br>
         <button name="boton" type="submit">Entrar</button>
         <span class='error'><?= $mensajeError ?? '';?></span> 
